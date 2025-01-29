@@ -9,7 +9,7 @@ labels:
   - C
   - Unix
   - emacs
-summary: "A flash card mini game that will allow users to practice multiplication"
+summary: "A flash card mini game that I made as one of the assignments for ICS 212"
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
