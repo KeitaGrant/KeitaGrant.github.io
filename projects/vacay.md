@@ -14,9 +14,9 @@ summary: "A flash card mini game that I made as one of the assignments for ICS 2
 ---
 
 
-This was a short assignment that I did for my ICS 212 class. The objective for this assignment was to utilize custom functions and in this case, I made functions that multiplied numbers and either returned a message displaying if the input was correct or incorrect. The main goal of this assignment was to practice using Unix as well as creating a makefile to make an executable program. Another useful tool was to seed random generator using UNIX time
+This was a short assignment that I did for my ICS 212 class. The objective for this assignment was to utilize custom functions and in this case, I made functions that multiplied numbers and either returned a message displaying if the input was correct or incorrect. The main goal of this assignment was to practice using Unix as well as creating a makefile to make an executable program. Another useful tool that I learned was to seed random generator using UNIX time.
 
-Here is some code that illustrates how we read values from the line sensors:
+Here is some code that illustrates how I randomly generated numbers and keeping track of the correct/incorrect amount of questions answered:
 
 ```cpp
 48   while(num < questions) {
