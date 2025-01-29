@@ -12,7 +12,8 @@ labels:
 summary: "Volunteering at an environmentalism organization"
 ---
 
-img/global1re.jpg
+![image](https://github.com/user-attachments/assets/f6c0fe80-7604-4c79-9cd0-132084fdd9fd)
+PC: Global Preservation Initiative
 
 
 This event was a beach cleanup and mini restoration effort organized by the Global Preservation Initiative, a group dedicated to environmental conservation and sustainability. 
