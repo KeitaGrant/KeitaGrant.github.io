@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/maths2.jpg
 title: "Flash Card Mini-game"
 date: 2024
 published: true
