@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/maths2.jpg
+image: img/mathre.jpg
 
 title: "Flash Card Mini-game"
 date: 2024
