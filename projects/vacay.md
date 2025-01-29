@@ -20,4 +20,5 @@ This was a short assignment that I did for my ICS 212 class. The objective for t
 
 Here is the example output of the code displayed in the terminal:
 
-img/forport.2.png
+![image](https://github.com/user-attachments/assets/0c84f6f5-492a-40c1-a3a7-f377cfb2d226)
+
