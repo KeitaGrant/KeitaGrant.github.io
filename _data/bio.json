@@ -33,19 +33,18 @@
   },
   "interests": [
     { "name": "Drawing" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Programming" },
+    { "name": "Enviornmentalism" },
+    { "name": "AI" },
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["C", "C++", "Java", "Javascript", "Linux"]
+      "keywords": ["C", "C++", "Java", "Javascript", "Typescript", "Linux"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": ["MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad"]
+      "keywords": ["Unix", "Git/GitHub"]
     }
   ],
   "education": [
@@ -67,9 +66,7 @@
       "endDate": "Present",
       "summary": "As a Crew Member at Baskin Robbins, I contribute to creating a tasty and fun place for customers, embodying the brand's mission and vision to be the world's favorite ice cream destination.",
       "highlights": [
-        "Crafting custom desserts like polar pizzas and roll cakes with attention to quality and customer satisfaction.",
         "Trained to operate the register, serve customers, and prepare beverages as a barista.",
-        "Maintained store cleanliness, restocked supplies, and ensured operational efficiency.",
         "Demonstrated excellent customer service, contributing to achieving sales goals.",
         "Thrived in a fast-paced environment, both independently and as part of a team."
       ]
