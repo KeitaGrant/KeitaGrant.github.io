@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: ![image](https://github.com/user-attachments/assets/d06ab2ef-e286-4ee2-8a62-2ea5c5e87a32)
+image: https://github.com/KeitaGrant/KeitaGrant.github.io/blob/main/img/maths2.jpg?raw=true
+
 title: "Flash Card Mini-game"
 date: 2024
 published: true
