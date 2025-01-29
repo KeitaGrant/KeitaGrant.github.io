@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/maths2.jpg
+image: ![image](https://github.com/user-attachments/assets/d06ab2ef-e286-4ee2-8a62-2ea5c5e87a32)
 title: "Flash Card Mini-game"
 date: 2024
 published: true
