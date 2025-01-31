@@ -11,10 +11,10 @@ labels:
 summary: "Learning a new language can be a new endeavor, but with prior knowledge to programming, adapting can be less challeneging. Since the start of the semester, I have been learning a new language and putting my previous knowledge of programming to the test. Although I am fairly new to this language, I've had a pretty positive experience so far."
 ---
 
-<p align="center">
+<p align="center"
 <img width="300px" 
 img length ="300px"
-     img class="img-fluid" src="https://api.hub.jhu.edu/factory/sites/default/files/styles/landscape/public/codingbrain.jpg?itok=bv73wwzV">
+img class="img-fluid" src="https://api.hub.jhu.edu/factory/sites/default/files/styles/landscape/public/codingbrain.jpg?itok=bv73wwzV">
      
 
 
