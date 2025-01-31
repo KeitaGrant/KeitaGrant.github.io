@@ -22,7 +22,7 @@ Observing a question that isn't so smart is the first step in .. In the example 
 
 ## Help Needed
 
-' How many words? Help needed: I have this code, it's almost right: But it needs - You know 3 unique word(s)! - after it. Can someone please help me finish this code, it's driving me crazy as I've tried everything to get it out '
+`How many words? Help needed: I have this code, it's almost right: But it needs - You know 3 unique word(s)! - after it. Can someone please help me finish this code, it's driving me crazy as I've tried everything to get it out`
 
 ### "Smart-ly" asked Question:
 We will now analyze a "smart" question published by... and observe the correct steps taken to look professional.
@@ -31,4 +31,5 @@ We will now analyze a "smart" question published by... and observe the correct s
 Now that we have a better idea of smart questions, are you able to ask “smart” questions. 
 
 Link to first question is [here](https://stackoverflow.com/questions/34326288/how-many-words-help-needed)
+
 Link to second question is [here]
