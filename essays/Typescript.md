@@ -12,8 +12,10 @@ summary: "Learning a new language can be a new endeavor, but with prior knowledg
 ---
 
                                                
-  <img src="https://api.hub.jhu.edu/factory/sites/default/files/styles/landscape/public/codingbrain.jpg?itok=bv73wwzV" />
-</p>
+<img width="300px" 
+img length ="300px"
+img class="img-fluid" src="https://api.hub.jhu.edu/factory/sites/default/files/styles/landscape/public/codingbrain.jpg?itok=bv73wwzV">
+
 
 
 Typescript so far in my opinion has been a fun 'new' learning experience. Out of all the languages I've used up until now, I think that this is my favorite (for now). Although this may change later down the line, I enjoy the simplicity and how forgiving the programming enviornment is. This may not be the best reasoning as to why I enjoy Typescript considering that I am expected to be comfortable with various languages, but for now, I find it easy to adapt to. 
