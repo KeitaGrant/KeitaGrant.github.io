@@ -2,11 +2,19 @@
 ---
 layout: essay
 type: essay
-title: "Thoughts on Typescript"
-# All dates must be YYYY-MM-DD format!
-date: 2025-01-23
+title: "Is this a dumb question? "
+
+date: 2025-01-30
 published: true
 labels:
   - Typescript
 
-    
+summary: "What is considered a dumb question? This post will explores the key characteristics of well-formed intellectual questions through real world examples.  "
+---
+
+
+Throughout our academic careers, we as students often experience self doubt when forming questions, unsure whether our verbalized inquiries will lead to desired answers. This natural occurrence then continues on in professional career fields with even more complex challenges that require “Smart Questions.” The abilitiy to articulate well crafted questions is not an innate ability that we  posses, but a skill that is honed through practice and curiosity. To gain an in depth understanding of what smart questions should look like, we will analyze questions published by users on StackOverflow. StackOverflow is a platform where professionals and people and learners alike seek technical questions. The goal of this analysis is to prepare future career driven individuals such as myself to present ourselves as competent and resourcesful rather than unprepared. 
+
+
+
+Now that we have a better idea of smart questions, are you able to ask “smart” questions. 
