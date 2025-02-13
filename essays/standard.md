@@ -12,4 +12,4 @@ summary: "What is considered a dumb question? This post will explores the key ch
 
 <img width="300px" 
 img length ="300px"
-img class="img/coding-standards-wordpress.jpg">
+img class="img-fluid" src="">
