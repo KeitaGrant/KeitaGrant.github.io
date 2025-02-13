@@ -7,9 +7,11 @@ date: 2025-01-30
 published: true
 labels:
   - Typescript
-summary: "What is considered a dumb question? This post will explores the key characteristics of well-formed intellectual questions through real world examples."
+summary: "This post will explore the coding standards of both ESLint and VSCode"
 ---
 
 <img src="/img/coding-standards-wordpress.jpg" alt="Coding Standards" style="display: block; margin: auto; width: 400px; height: auto;">
+
+##### Coding Standards:
 
 
