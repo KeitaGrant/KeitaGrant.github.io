@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "From ESLint to VS Code: Adapting to Coding Standard"
+title: "From Typescript Playground to VSCode/ESLint: Adapting to Coding Standard"
 
 date: 2025-01-30
 published: true
