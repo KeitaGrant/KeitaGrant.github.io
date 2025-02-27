@@ -13,7 +13,7 @@ summary: "Over these past few weeks, we have been practicing building websites u
 ---
 
 <div style="display: flex; justify-content: center; align-items: center;">
-<img src="img/image.png" alt="Coding Standards" style="display: block; margin: auto; width: 500 px; height: auto;">
+<img src="/" alt="Coding Standards" style="display: block; margin: auto; width: 500 px; height: auto;">
   
 </div>
 
