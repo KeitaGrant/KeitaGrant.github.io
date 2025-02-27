@@ -10,7 +10,7 @@ labels:
 summary: "This post will explore the coding standards of ESLint through VSCode"
 ---
 
-<img src="/img/coding-standards-wordpress.jpg" alt="Coding Standards" style="display: block; margin: auto; width: 500px; height: auto;">
+<img src="/img/coding-standards-wordpress.jpg" alt="Coding Standards" style="display: block; margin: auto; width: 500 px; height: auto;">
 
 ### Coding Standards:
 
