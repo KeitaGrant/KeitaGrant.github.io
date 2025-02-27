@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI Framework complexities "
+title: "UI Frameworks: An essential tool"
 
 date: 2025-02-26
 published: true
@@ -18,7 +18,9 @@ summary: "Over these past few weeks, we have been practicing building websites u
 </div>
 
 ### Starting Thoughts
+<p> UI has become an integral part of software development </p>
 
+### The learning process
 
 ### Conclusion
-
+<p> </p>
