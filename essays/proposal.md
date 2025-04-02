@@ -1,21 +1,13 @@
-
 ---
 layout: essay
 type: essay
 title: "Final Project Idea"
-date: 2025-04-01
-labels:
-  - Software Engineering
-  - Nextjs
----
 
-date: 2025-02-26
+date: 2025-04-01
 published: true
 labels:
-  - HTML
-  - CSS
-  - VScode
-summary: "Reflect on UI Frameworks: In this reflective essay, I will be going over my personal thoughts and experiences using UI frameworks"
+  - Typescript
+summary: "Parking at the University of Hawai'i at Mānoa can be extremely stressful, especially during peak hours."
 ---
 
 
