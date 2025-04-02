@@ -2,10 +2,12 @@
 layout: essay
 type: essay
 title: "Final Project Idea"
+
 date: 2025-04-01
+published: true
 labels:
-  - Software Engineering
-  - Nextjs
+  - Typescript
+summary: "Parking at the University of Hawai'i at Mānoa can be extremely stressful, especially during peak hours."
 ---
 
 
