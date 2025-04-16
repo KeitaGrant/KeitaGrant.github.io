@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "M1 Estimation"
+title: "M1 Project Estimation"
 
 date: 2025-04-15
 published: true
