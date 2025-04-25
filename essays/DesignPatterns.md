@@ -25,3 +25,7 @@ Take the Singleton Pattern, for example. It’s a way to ensure that there’s o
 ### When the most difficult of enemies is ESLint
 
 <p> Of course, no journey is complete without a few unexpected boss fights. For me, one of the biggest challenges wasn’t figuring out how to use Vercel or Supabase; it was getting my app to build without tripping over a dozen ESLint errors. Every time I fixed one rule, another seemed to spawn, like a coding version of a Hydra. I quickly learned that ESLint was less of a monster and more of a gatekeeper to clean, maintainable code. It forced me to think more like a designer that organizes imports, avoids bad loops, and writing cleaner functions. Eventually, I began to recognize the pattern behind the errors. Like parrying a Guardian’s laser, I stopped reacting and started anticipating. What began as frustration became fluency. </p>
+
+### Bringing it All Together
+
+<p>Design patterns, like enemy attack patterns in "Breath of the Wild", aren’t meant to limit creativity, they’re tools to navigate it. Just as Link studies his foes to find the best way to counter them, developers study design patterns to write code that’s robust, readable, and resilient. Whether it’s the Singleton ensuring order across your state logic or a well-timed ESLint parry keeping your code clean, patterns are what transform chaotic challenges into manageable encounters. 
