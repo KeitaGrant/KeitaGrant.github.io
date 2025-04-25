@@ -14,7 +14,7 @@ summary: "Reflect on Software design"
 ---
 
 <div style="display: flex; justify-content: center; align-items: center;">
-<img src="/img/image.png" alt="Coding Standards" style="display: block; margin: auto; width: 300px; heigt: auto">
+<img src="/img/Zeldaa.png" alt="Coding Standards" style="display: block; margin: auto; width: 300px; heigt: auto">
   
 </div>
 
