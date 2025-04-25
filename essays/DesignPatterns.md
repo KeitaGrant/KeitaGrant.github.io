@@ -1,16 +1,14 @@
-
 ---
 layout: essay
 type: essay
-title: "Relating Game Patterns to Software Design"
+title: "Relating Game Patterns to Software"
 
-date: 2025-24-04
+date: 2025-04-15
 published: true
 labels:
   - Software Engineering
-  - Learning
   - VScode
-summary: "Reflect on Software design"
+summary: "Relating Game Patterns to Software Design"
 ---
 
 <div style="display: flex; justify-content: center; align-items: center;">
