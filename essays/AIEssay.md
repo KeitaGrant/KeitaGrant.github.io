@@ -44,17 +44,19 @@ summary: "In this essay, we will go over the use of AI and my personal experienc
 
 
 ### Practical Applications
-<p> While AI has can be used excessively and in turn hindering learning concepts in school, there are very practical applications in using AI. </p>
+<p> While AI has can be used excessively and in turn hindering learning concepts in school, there are very practical applications in using AI. AI can assist with debugging, generating boilerplate code, and providing explanations for unfamilar concepts. This can enhance productivity without pouring too much time into one task. When used responsibly, AI can be used as a supportive tool that can compliment human learning.</p>
 
 ### Challenges and Opportunities
 <p> While AI can be a great tool to be used and can sometimes be used as a magic genie, AI has a lot of limitations. For instance, when creating a website, AI does not have the same human capabilities when it comes to having an artistic point of view. AI is not very good in making something 'pretty' since that concept is kind of meaningless to a computer. In past assignments where students had to recreate a website, chatgpt would just spit out random nonsense since they are not capable of recreating a design from what a human built. Even though AI is not very good at this, the jobs for software developers are in a reatively safe position since computers are not very artisitic. </p>
 
 ### Comparative Analysis
-
+<p>Before AI and the advancement of learning tools, there were traditional teaching methods such as lectrues, textbooks, and in class exercises. These learning methods have always provided a foundational understanding to a student's eduction. However, these methods are also very rigid and can be overwhelming - especially when you have a question and don't have the ability to google the answer. With AI enhanced learning, anyone with access to the internet can be use chatGPT as an online 24/7 tutor that'll answer any question. This provides a fantastic way for students who do not have the time to go to office hours or in person tutoring to gain information on a topic even quicker and conveniently. </p>
 
 ### Future Considerations
-
+<p>The future of AI in software engineering education holds both exciting possibilities and challenging obstacles. As AI continues to advance; it can potentially be integrated into curriculum as a learning partner. The evolution of how software engineers program will inevitably shift and having AI as a helper will become the new norm in the industry. </p>
 
 
 ### Conclusion
+<p>AI has significantly influenced my experience in ICS 314 and beyond. It helped me stay afloat in difficult topics and guided me through unfamiliar technologies. However, I’ve also seen how it can be misused or leaned on too heavily. Through this course, I learned that AI is best viewed as a tool, not a substitute for thinking.</p>
 
+<p>To optimize AI use in future courses, I suggest incorporating AI-literacy workshops, encouraging responsible use through reflection-based assignments, and blending AI tools with peer learning and instructor feedback. If used well, AI can help students like me not only survive software engineering, but grow confident in it.</p>
