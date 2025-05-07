@@ -11,7 +11,8 @@ summary: "In this essay, we will go over the use of AI and my personal experienc
 ---
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="AI.png" alt="AI image" style="width: 300px; height: auto;" class="img-fluid">
+<img src="/img/AI.png" alt="Coding Standards" style="display: block; margin: auto; width: 300px; heigt: auto">
+  
 </div>
 
 
