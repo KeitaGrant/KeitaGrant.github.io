@@ -23,19 +23,19 @@ summary: "In this essay, we will go over the use of AI and my personal experienc
 ### Personal Experience
 <ul>
 <li>Experience WODs e.g. E18:  </li>
-<li>In-class Practice WODs </li>
-<li>In-class WODs </li>
-<li>Essays </li>
-<li>Final project </li>
+<li>In-class Practice WODs:  I used AI for this section </li>
+<li>In-class WODs: I used AI if there were errors in my line of thinking since I can't perform under pressure </li>
+<li>Essays: I did not use AI to create essays since writing down your own thoughts has been becoming a lost form of art</li>
+<li>Final project: I used AI for this since I am new to using databases and I was not sure how to navigate through vercel or supabase which was helpful.</li>
 <li>Learning a concept / tutorial </li>
-<li>Answering a question in class or in Discord </li>
-<li>Asking or answering a smart-question </li>
-<li>Coding example e.g. “give an example of using Underscore .pluck” </li>
-<li>Explaining code </li>
-<li>Writing code </li>
-<li>Documenting code </li>
-<li>Quality assurance e.g. “What’s wrong with this code code here” or “Fix the ESLint errors in code here” </li>
-<li>Other uses in ICS 314 not listed </li>
+<li>Answering a question in class or in Discord: Personally, I have never used classwide Discord for answering/asking questions since I would use AI to answer my questions about anything complicated </li>
+<li>Asking or answering a smart-question: I try to formulate smart questions with chatgpt to give me a specific answer </li>
+<li>Coding example e.g. “give an example of using Underscore .pluck”: If I wanted a specific format to build a website then I would use AI </li>
+<li>Explaining code: I used AI for this since I'd be stuck trying to figure out the purpose of a particular function.</li>
+<li>Writing code: I used AI for this if I wanted to do something outside of the scope of what I know. </li>
+<li>Documenting code: A lot of times AI would comment certain parts of code for the reader to better undersatand what is happening. </li>
+<li>Quality assurance e.g. “What’s wrong with this code code here” or “Fix the ESLint errors in code here”: I used AI heavily for this since there were too many times were I would be troubleshooting and didn't know why certain lines of code were giving errors </li>
+<li>Other uses in ICS 314 not listed: I used AI in programming games since I am a beginner and have never used Unity. </li>
 </ul>
 
 #### Learning and Understanding
