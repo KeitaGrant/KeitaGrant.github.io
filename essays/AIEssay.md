@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The age of AI"
 
-date: 2025-01-30
+date: 2025-05-6
 published: true
 labels:
   - Typescript
