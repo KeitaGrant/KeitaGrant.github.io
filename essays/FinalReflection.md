@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "Is this a dumb question? "
+title: "Final Reflection of Software Engineering "
 
-date: 2025-01-30
+date: 2025-05-14
 published: true
 labels:
   - Typescript
-summary: "What is considered a dumb question? This post will explores the key characteristics of well-formed intellectual questions through real world examples."
+summary: "In this essay, we reflect on the study of software engineering and the impacts that it has on our day to day lives."
 ---
 
 <div style="display: flex; justify-content: center; align-items: center;">
