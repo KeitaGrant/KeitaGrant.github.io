@@ -23,3 +23,9 @@ As with any project, starting off with a plan on something as big as creating a 
 
 ### My Task
 After fleshing out the game idea, we each assigned ourselves a task on the game project. The task that I chose to take upon myself was the level design for floor 2 and Boss Phase 2. 
+
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="img/BossPhase2.png" alt="Boss Phase 2" style="width: 300px; height: auto;">
+  <img src="img/leveldesign2.png" alt="Level Design 2" style="width: 300px; height: auto;">
+</div>
