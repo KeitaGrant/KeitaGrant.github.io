@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: /img/unity logo.jpg
 
 title: "Unity Project"
 date: 2025
@@ -22,10 +22,12 @@ As with any project, starting off with a plan on something as big as creating a 
 
 
 ### My Task
-After fleshing out the game idea, we each assigned ourselves a task on the game project. The task that I chose to take upon myself was the level design for floor 2 and Boss Phase 2. 
+After fleshing out the game idea, we each assigned ourselves a task on the game project. The task that I chose to take upon myself was the level design for floor 2 and Boss Phase 2. Below are mockups of the level design as well as the placement of the main character and enemies. 
 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="/img/BossPhase2.png" alt="Boss Phase 2" style="width: 300px; height: auto;">
   <img src="/img/leveldesign2.png" alt="Level Design 2" style="width: 300px; height: auto;">
 </div>
+
+
