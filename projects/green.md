@@ -10,7 +10,7 @@ labels:
   - Unity
   - Game Design
 
-summary: "This semester, I had the opportunity to help create a game called "Poke the Hornet's Nest""
+summary: "This semester, I had the opportunity to help create a game called \"Poke the Hornet's Nest\""
 ---
 
 Unity is a game engine developed by Unity technologies which is used to create 2D/3D/AR games and experiences. During this semester, I had the chance to collaborate with other students in the Game Development club to create a game.
