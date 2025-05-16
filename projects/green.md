@@ -26,6 +26,6 @@ After fleshing out the game idea, we each assigned ourselves a task on the game 
 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="img/BossPhase2.png" alt="Boss Phase 2" style="width: 300px; height: auto;">
-  <img src="img/leveldesign2.png" alt="Level Design 2" style="width: 300px; height: auto;">
+  <img src="/img/BossPhase2.png" alt="Boss Phase 2" style="width: 300px; height: auto;">
+  <img src="/img/leveldesign2.png" alt="Level Design 2" style="width: 300px; height: auto;">
 </div>
