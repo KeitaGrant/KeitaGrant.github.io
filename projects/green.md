@@ -1,28 +1,25 @@
 ---
 layout: project
 type: project
-image: img/enviornemnt1re.jpg
+image: 
 
-title: "Building a Green Thumb"
+title: "Unity Project"
 date: 2025
 published: true
 labels:
-  - Enviornemntalism
+  - Unity
+  - Game Design
 
-summary: "Volunteering at an environmentalism organization"
+summary: "This semester, I had the opportunity to help create a game called "Poke the Hornet's Nest""
 ---
 
-![image](https://github.com/user-attachments/assets/f6c0fe80-7604-4c79-9cd0-132084fdd9fd)
-PC: Global Preservation Initiative
+Unity is a game engine developed by Unity technologies which is used to create 2D/3D/AR games and experiences. During this semester, I had the chance to collaborate with other students in the Game Development club to create a game.
+
+### The Process
+As with any project, starting off with a plan on something as big as creating a game requires thoughtful planning. At the beginning of the semester, there was an opportunity for students to group together and brainstorm ideas on what the game should be. Each group consisted of coders and artists so that we could bounce ideas off each from an artistic and coding perspective. The brainstorming process eventually led to a Game Pitch where each group presented their idea on which game the club should create. Since the theme for this semester was 'territorial', we each tried to center our ideas on what defines territory. There were many interesting ideas for games (The game pitch for my group was an ant simulator game). Eventually, we took a vote on the most interesting idea which was a game about a bee and wasps. 
+
+### Fleshing out the Idea
 
 
-This event was a beach cleanup and mini restoration effort organized by the Global Preservation Initiative, a group dedicated to environmental conservation and sustainability. 
-The event took place on Sand Island, a well-known area that many of us have visited. A lot of the beauty we see in nature is often taken for granted, and unfortunately, many people 
-don’t realize the long-term effects of neglecting these environments. Trash, debris, and other pollutants accumulate over time, disrupting the ecosystem and harming wildlife.
-
-For this particular event, my role involved two key tasks: repainting structures and picking up trash along the beach. 
-The cleanup portion of the event involved walking along the beach and collecting litter that has been left by homeless people or careless individuals.
-The repainting aspect of this event was to give a fresh new coat to parking structures that were worn down by the weather and age.
-
-Overall, this experience was very rewarding as it made me see how much of an impact taking care of the community that we live in is and why it is important to care for the planet that we 
-and our future generations will live in. 
+### My Task
+After fleshing out the game idea, we each assigned ourselves a task on the game project. The task that I chose to take upon myself was the level design for floor 2 and Boss Phase 2. 
