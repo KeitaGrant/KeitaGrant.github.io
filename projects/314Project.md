@@ -25,7 +25,9 @@ This is the Events page that I developed for the ArtHub application. The origina
 
 In addition to building the Events page, I also created Playwright test scripts for various parts of the application. These scripts were used to automate UI testing and ensure that key features—such as navigation, user login, uploading artwork, and viewing profiles—functioned as expected. This helped us catch bugs early and verify that core functionality remained intact throughout the development process.
 
+<div>
 <img src="/img/eventts.png" alt="Events Page" style="width: 300px; height: auto;">
+</div>
 Working on this project taught me a lot about real-world collaboration, time management, and balancing ideal features with deliverable outcomes. It was my first time using Playwright and integrating automated testing into a group workflow, and I gained a solid understanding of how testing frameworks can be used to maintain reliability across updates.
 
 
