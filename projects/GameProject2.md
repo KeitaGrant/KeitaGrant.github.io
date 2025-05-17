@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/unity logo.jpg
+image: img/pooore.png
 
 title: "Unity Project"
 date: 2025
