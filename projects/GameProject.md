@@ -4,7 +4,7 @@ type: project
 image: img/pooore.png
 
 title: "ICS 485 Game Project"
-date: 2024
+date: 2025
 published: true
 labels:
   - Animation
