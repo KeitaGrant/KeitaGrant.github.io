@@ -32,3 +32,6 @@ After fleshing out the game idea, we each assigned ourselves a task on the game 
 ### Overall Thoughts
 Overall, this was a very fun experience and I would join this club again to learn more about game development and maybe even create a game for myself as a passion project. Creating a game requires time, collaboration, and creativity since it certainly does not happen overnight!
 
+GitHub repo url: <a href="https://github.com/GameDevUHM/GDGJ-Territory.git" target="_blank">https://github.com/GameDevUHM/GDGJ-Territory.git</a><br>
+Try playing it: <a href="https://uhmanoagamedev.itch.io/poke-the-hornets-nest" target="_blank">https://uhmanoagamedev.itch.io/poke-the-hornets-nest</a>
+
