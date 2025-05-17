@@ -7,10 +7,14 @@ date: 2025-01-30
 published: true
 labels:
   - Typescript
+  - ESLint
 summary: "This post will explore the coding standards of ESLint through VSCode"
 ---
 
-<img src="/img/coding-standards-wordpress.jpg" alt="Coding Standards" style="display: block; margin: auto; width: 500 px; height: auto;">
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img class="img-fluid" src="/img/coding-standards-wordpress.jpg">" 
+         width="300px" height="auto">
+</div>
 
 ### Coding Standards:
 

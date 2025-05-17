@@ -6,7 +6,7 @@ title: "Project Estimation"
 date: 2025-04-15
 published: true
 labels:
-  - Typescript
+  - Project 
 summary: "Estimating the amount of time that M1 would take"
 ---
 

@@ -7,6 +7,7 @@ date: 2025-01-30
 published: true
 labels:
   - Typescript
+  - StackOverflow
 summary: "What is considered a dumb question? This post will explores the key characteristics of well-formed intellectual questions through real world examples."
 ---
 
