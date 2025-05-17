@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/titlescreen.png
+image: img/pooore.png
 
 title: "ICS 485 Game Project"
 date: 2024
