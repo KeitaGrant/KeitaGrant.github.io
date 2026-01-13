@@ -13,7 +13,6 @@ summary: "This post will explore the coding standards of ESLint through VSCode"
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img class="img-fluid" src="/img/coding-standards-wordpress.jpg">" 
-         width="300px" height="auto">
 </div>
 
 ### Coding Standards:
