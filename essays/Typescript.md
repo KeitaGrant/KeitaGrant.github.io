@@ -14,7 +14,6 @@ summary: "Learning a new language can be a new endeavor, but with prior knowledg
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img class="img-fluid" src="https://api.hub.jhu.edu/factory/sites/default/files/styles/landscape/public/codingbrain.jpg?itok=bv73wwzV">" 
-         width="300px" height="auto">
 </div>
 
 
