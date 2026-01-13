@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/arttttt.png   
 
-title: "ICS 311 Final Project"
+title: "ICS 314 Final Project"
 date: 2025
 published: true
 labels:
@@ -11,7 +11,7 @@ labels:
   - HTML
   - CSS
   - Next.js
-summary: "This is the final project that my group and I created for ICS 311"
+summary: "This is the final project that my group and I created for ICS 314"
 ---
 
 Over the course of the semester, we learned how to build websites and comprehensively study what it means to develop software.
